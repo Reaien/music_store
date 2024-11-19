@@ -19,3 +19,13 @@ body{
 .margen{
     margin-top: 7rem;
 }
+
+.text-transform{
+    font-size: 18px;
+}
+
+@media (max-width: 768px) {
+    .text-transform{
+        font-size: 40px;
+    }
+  }
